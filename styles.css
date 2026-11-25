@@ -67,3 +67,4 @@ header, main, footer { padding: 0 1rem; }
 /* Keep vertical spacing after the rule above */
 .site-header { padding-top: 0.75rem; padding-bottom: 0.75rem; }
 main, footer { padding-top: 1rem; padding-bottom: 1rem; }
+#prices .card p { color: #0b6e4f; font-weight: 700; }
